@@ -1,8 +1,8 @@
 # Windows-PS-SERIES
 The beginner files!
-The coding file is main.py
+The coding file is x.py
 
-X.py is for running
+main.py is for running
 
 
 
